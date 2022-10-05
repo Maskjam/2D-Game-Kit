@@ -13822,3 +13822,57 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5916.047999 seconds.
+  path: Assets/NewScene.unity
+  artifactKey: Guid(621d6c524bae945a386e602788469452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewScene.unity using Guid(621d6c524bae945a386e602788469452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309dfdd4914b0c24f86f10d7207cffd9') in 0.172955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.651056 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(8c732af79af4844d3876f23bd16a886e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(8c732af79af4844d3876f23bd16a886e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '655085ef0816c2e2890989be9a47aa85') in 0.001267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 257.606679 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies
+  artifactKey: Guid(15a675dabe8cd6c4bb0ed6ad32cd6771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies using Guid(15a675dabe8cd6c4bb0ed6ad32cd6771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04a1c4801e8b1c332c989bd9135ca54') in 0.007402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.364450 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/Chomper.prefab
+  artifactKey: Guid(9a2f32836e0e10248b425c273622a735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/Chomper.prefab using Guid(9a2f32836e0e10248b425c273622a735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f876f0c90344718c9fc277b8b05beb77') in 0.662832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001977 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab
+  artifactKey: Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab using Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f381c79e6153c25d53c9d4fef21bdb') in 0.375043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/EnemySpawner.prefab
+  artifactKey: Guid(5ae094758896c0b45b352d4b01916822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/EnemySpawner.prefab using Guid(5ae094758896c0b45b352d4b01916822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53d4907b6c037e354ee31cbd3dbca05') in 0.036869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.769860 seconds.
+  path: Assets/2DGamekit/Prefabs/Environment
+  artifactKey: Guid(084bdd889962f284e9d2affee007566d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Environment using Guid(084bdd889962f284e9d2affee007566d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1995c816c85974f16743d0165b6433a') in 0.002277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.139056 seconds.
+  path: Assets/2DGamekit/Prefabs/Environment/Acid.prefab
+  artifactKey: Guid(3aa03ae1689a947448e3ea2b622614f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Environment/Acid.prefab using Guid(3aa03ae1689a947448e3ea2b622614f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f27a839786b4de9fe4fa1980855744d') in 0.081837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/2DGamekit/Prefabs/Environment/Spikes.prefab
+  artifactKey: Guid(4ff9f7a332b4ae44bb62aaee6eacc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Environment/Spikes.prefab using Guid(4ff9f7a332b4ae44bb62aaee6eacc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f664e1dd83714245b99d2062ee9a65b') in 0.128483 seconds 
