@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/NewScene.unity
+- path: Assets/GREAT GAME.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
